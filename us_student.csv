@@ -1,0 +1,101 @@
+,Student ID,Name,mother_name,Gender,Age,State,Degree,Field of Study,University,Graduation Year,Visa Status,Employment Status
+0,1,NAYAKWADI AASHUTOSH MUKUND,PRATIKSHA,Female,22,Wisconsin,Master's,Mechanical Engineering,Jones PLC University,2021,F-1,Seeking Employment
+1,2,IRLE AJAY GAUTAM,SARIKA,Male,23,Nevada,Bachelor's,Law,"Williams, Noble and Dyer University",2023,F-1,Internship
+2,3,KOTA REGINALD MADHUBABU RINA,PRISCILLA,Male,21,California,Master's,Philosophy,Gonzalez Group University,2022,F-1,Internship
+3,4,KOTA REGINALD MADHUBABU RINA,PRISCILLA,Male,25,Illinois,PhD,Marketing,Russell PLC University,2021,F-1,Employed
+4,5,DEVENDRAN NIKESH VADIVEL ,KANYAKUMARI,Female,23,Connecticut,PhD,Economics,Savage Ltd University,2024,F-1,Seeking Employment
+5,6,SADULA JEEVAN SRINIVAS,SWAPNA,Male,25,Rhode Island,Bachelor's,Law,Murray-Abbott University,2023,F-1,Internship
+6,7,CHOUGULE FARDEEN FIRDAUS,MUBINA,Female,25,Oregon,Master's,Electronics,Hansen Inc University,2024,F-1,Seeking Employment
+7,8,MEKALA SHWETA GANGADHAR,SAPNA,Male,21,North Dakota,Master's,Civil Engineering,"Thompson, Flores and Harrison University",2023,F-1,Seeking Employment
+8,9,BHOOMI CHAUDHARY RAJENDRA KUMAR SHUBHADRA,,Female,26,Illinois,PhD,Business Administration,"Dean, Thomas and Aguilar University",2022,F-1,Employed
+9,10,HARIKARA SUDHAN E PERUMAL,LATHA,Female,27,Vermont,Master's,Sociology,Riggs-Dean University,2025,F-1,Seeking Employment
+10,11,NAYAKWADI AASHUTOSH MUKUND,PRATIKSHA,Female,25,Vermont,PhD,Chemistry,Allen and Sons University,2022,F-1,Internship
+11,12,SALUNKE AARUSHI PRASAD,VANITA,Female,22,Delaware,Bachelor's,Statistics,Walter-Chan University,2021,F-1,Seeking Employment
+12,13,GUPTA SUJAL SATYANARAYAN,MIRA,Female,27,New Mexico,Bachelor's,Law,Rivera-Lee University,2023,F-1,Internship
+13,14,YADAV ABHISHEK SURESH,PRAMILA,Female,23,Pennsylvania,Bachelor's,Law,"Cross, Martin and Watson University",2022,F-1,Employed
+14,15,PAL SACHIN LALJEET NIRMALA,DEVI,Female,25,Massachusetts,PhD,Sociology,Fuller-Brown University,2023,F-1,Internship
+15,16,DATTA ARNAB MIDUL,RITA,Female,21,Iowa,PhD,Psychology,Lewis LLC University,2022,F-1,Seeking Employment
+16,17,PANDEY VIVEK HARISH MEERA,DEVI,Female,22,Missouri,PhD,Data Science,Adams Inc University,2022,F-1,Internship
+17,18,SADULA JEEVAN SRINIVAS,SWAPNA,Female,23,Idaho,Bachelor's,Accounting,Logan-King University,2021,F-1,Seeking Employment
+18,19,NAIK SWAYAM SANTOSH,SMITA,Male,26,Alabama,PhD,Artificial Intelligence,Duffy-Jones University,2021,F-1,Seeking Employment
+19,20,IRLE AJAY GAUTAM,SARIKA,Male,22,Louisiana,Master's,Computer Science,"Novak, Dyer and Green University",2022,F-1,Internship
+20,21,GOLE YASH ASHOK,SUNANDA,Female,25,New Hampshire,PhD,Business Administration,Williams PLC University,2023,F-1,Employed
+21,22,CHOUGULE FARDEEN FIRDAUS,MUBINA,Female,27,Oregon,PhD,Chemical Engineering,Tyler-Zimmerman University,2025,F-1,Internship
+22,23,ANANDKRISHNA T V SADANAND,RIJI,Male,24,Pennsylvania,Master's,Statistics,Bryan-Sanchez University,2022,F-1,Employed
+23,24,JANAKISHREE BHASKAR,CHELLAMMAL,Male,21,Maine,Master's,Statistics,Torres PLC University,2021,F-1,Internship
+24,25,THEVAR ABHISHEK MURUGAN,GANGADEVI,Female,27,Alabama,Bachelor's,Nursing,Moss-Escobar University,2024,F-1,Seeking Employment
+25,26,SHAIKH ATIK HABIB,SAMINABEGAM,Female,22,Texas,Master's,Biomedical Engineering,Espinoza Inc University,2025,F-1,Internship
+26,27,SAWANT ANVIT AMAR,ANAGHA,Male,23,Louisiana,Master's,Data Science,Sellers-Crawford University,2021,F-1,Seeking Employment
+27,28,DEVENDRAN NIKESH VADIVEL ,KANYAKUMARI,Female,24,New Hampshire,PhD,Hospitality Management,Barnett LLC University,2024,F-1,Seeking Employment
+28,29,SHREYA   PALANIVEL THIRIPURA,SUNDARI,Female,26,Montana,PhD,Mathematics,"Turner, Jacobson and Williams University",2022,F-1,Employed
+29,30,MISHRA HIMANSHU PANKAJ,RENU,Female,27,Utah,Master's,Biology,Soto and Sons University,2025,F-1,Employed
+30,31,JANAKISHREE BHASKAR,CHELLAMMAL,Male,27,Missouri,Bachelor's,Architecture,Greene Group University,2024,F-1,Seeking Employment
+31,32,SINGH TRISHAA SANJAY,ANURADHA,Female,25,Missouri,Master's,Business Administration,"Franklin, Gilbert and Morales University",2025,F-1,Employed
+32,33,SHAKEEB MD MUKHTAR SHABINA,BEGUME,Male,23,Texas,PhD,Biology,Butler Group University,2022,F-1,Employed
+33,34,DHAKANE JAYDATT LAHU ,GAYABAI,Female,22,Nevada,PhD,Software Engineering,"Brown, Guerrero and Mckenzie University",2021,F-1,Internship
+34,35,DARSH MANOHAR SHETTY,VARSHA,Male,27,Connecticut,PhD,Chemical Engineering,Davis-Gibbs University,2024,F-1,Seeking Employment
+35,36,PARDHE APURVA AMIR,KAVITA,Female,24,Arkansas,Master's,Electrical Engineering,Delacruz-Mcdonald University,2023,F-1,Internship
+36,37,DARSH MANOHAR SHETTY,VARSHA,Female,27,Alabama,Bachelor's,Data Science,Armstrong-Cobb University,2024,F-1,Employed
+37,38,SHARMA SONAM SHIVCHAND,SUNITA,Male,24,Connecticut,Bachelor's,Electronics,"Jones, Mcpherson and Alexander University",2025,F-1,Seeking Employment
+38,39,EISHA ELAIYARAJAN AROKIA,SELVI,Female,22,Florida,Bachelor's,International Relations,Ruiz-Strong University,2024,F-1,Seeking Employment
+39,40,PARDHE APURVA AMIR,KAVITA,Male,26,Alaska,Master's,Statistics,Velez-Vasquez University,2022,F-1,Seeking Employment
+40,41,SAMAL KAVYA NARENDRA ,RAJANI,Male,21,Kansas,PhD,Electronics,"Carlson, Harrison and Williams University",2024,F-1,Seeking Employment
+41,42,SHENOY VINDHYA SHYAM,SHUBHANGI,Male,24,Massachusetts,Master's,Mechanical Engineering,Fuentes PLC University,2024,F-1,Employed
+42,43,GUPTA OMKAR VIMLESH,SANGITA,Female,24,Wyoming,Master's,Philosophy,Bailey PLC University,2021,F-1,Internship
+43,44,PAWAR ARYA MANOHAR,MEGHA,Male,26,Nevada,Master's,Machine Learning,Hernandez PLC University,2025,F-1,Seeking Employment
+44,45,SWAMY ALICIA GEORGE,JYOTI,Female,25,West Virginia,Bachelor's,Psychology,"Melendez, Anderson and Schneider University",2024,F-1,Employed
+45,46,MANISHA AGRAHARI KAMLAWATI,DEVI,Female,24,Iowa,Bachelor's,Philosophy,"Ford, Sanchez and Reed University",2024,F-1,Employed
+46,47,PATEL DIMPAL JAGDISH ,MANJU,Male,21,Mississippi,Master's,International Relations,Smith Ltd University,2024,F-1,Seeking Employment
+47,48,RAI SHUBHI AJAY,NITU,Female,26,North Dakota,Master's,Information Technology,Sanders LLC University,2024,F-1,Seeking Employment
+48,49,ANANDKRISHNA T V SADANAND,RIJI,Male,22,Michigan,Bachelor's,Biology,Hughes Group University,2022,F-1,Seeking Employment
+49,50,CHOUGULE FARDEEN FIRDAUS,MUBINA,Male,25,Rhode Island,PhD,Artificial Intelligence,Preston Ltd University,2025,F-1,Internship
+50,51,MANISHA AGRAHARI KAMLAWATI,DEVI,Female,21,Delaware,Master's,Software Engineering,Kaufman Group University,2023,F-1,Seeking Employment
+51,52,PANDIDHAR ASHWINI BALAJI,SUSHMA,Male,22,Ohio,Master's,Education,Key-Greene University,2021,F-1,Employed
+52,53,NADAR VIGNESH VELRAJ,ARUMUGAKANI,Female,27,Kansas,Bachelor's,Law,Whitney-Duncan University,2025,F-1,Seeking Employment
+53,54,PAL SACHIN LALJEET NIRMALA,DEVI,Female,26,Rhode Island,Bachelor's,Statistics,Lewis LLC University,2022,F-1,Employed
+54,55,POOJARY POORNA RAMESH ,SHANTHA,Male,23,South Carolina,Bachelor's,Environmental Science,"Stevens, Nguyen and Burns University",2021,F-1,Seeking Employment
+55,56,JAISWAL ATULKUMAR KAMALA PRASAD,HAUSILADEVI,Female,25,Vermont,Master's,Statistics,Jones Group University,2023,F-1,Employed
+56,57,CHOUGULE FARDEEN FIRDAUS,MUBINA,Male,24,Alaska,Bachelor's,Computer Science,"Poole, Riley and Warren University",2024,F-1,Employed
+57,58,PATEL DIMPAL JAGDISH ,MANJU,Female,24,Alaska,Bachelor's,Pharmacy,Pineda-Jones University,2023,F-1,Seeking Employment
+58,59,NAYAKWADI AASHUTOSH MUKUND,PRATIKSHA,Male,25,West Virginia,PhD,Nursing,"Richardson, Cox and Evans University",2022,F-1,Seeking Employment
+59,60,NAYAKWADI AASHUTOSH MUKUND,PRATIKSHA,Female,25,Delaware,Master's,Physics,"Sanchez, Turner and Estrada University",2023,F-1,Internship
+60,61,SINGH TRISHAA SANJAY,ANURADHA,Male,21,New York,Bachelor's,Accounting,Hernandez PLC University,2025,F-1,Seeking Employment
+61,62,UPADHYAY SHASHI KUMAR SHYAMDEV BAIJANTI,DEVI,Female,21,Maine,Bachelor's,Philosophy,"Thompson, Griffin and Floyd University",2024,F-1,Employed
+62,63,SHREYA   PALANIVEL THIRIPURA,SUNDARI,Male,27,Texas,Bachelor's,Information Technology,"Smith, Anthony and Jackson University",2021,F-1,Seeking Employment
+63,64,DATTA ARNAB MIDUL,RITA,Female,25,California,Master's,Media Studies,Crawford Ltd University,2023,F-1,Internship
+64,65,ORGANTI ARYAN SUDHAKAR,PADMA,Male,26,Idaho,Bachelor's,Electronics,Lee LLC University,2024,F-1,Internship
+65,66,SHAKEEB MD MUKHTAR SHABINA,BEGUME,Female,23,Georgia,Master's,Economics,Frazier PLC University,2023,F-1,Seeking Employment
+66,67,DARSH MANOHAR SHETTY,VARSHA,Male,27,Mississippi,PhD,Education,Harrell and Sons University,2021,F-1,Seeking Employment
+67,68,GOLE YASH ASHOK,SUNANDA,Male,23,Delaware,Bachelor's,Marketing,Walker and Sons University,2021,F-1,Employed
+68,69,SHAKEEB MD MUKHTAR SHABINA,BEGUME,Female,23,Pennsylvania,Master's,Accounting,Robertson-Nunez University,2021,F-1,Internship
+69,70,SHENOY VINDHYA SHYAM,SHUBHANGI,Female,22,South Dakota,PhD,Business Administration,Snow-Hernandez University,2024,F-1,Internship
+70,71,UPADHYAY SHASHI KUMAR SHYAMDEV BAIJANTI,DEVI,Male,25,Connecticut,PhD,Chemical Engineering,"Mcdaniel, Benjamin and Jordan University",2023,F-1,Internship
+71,72,KAMAL KARTHICK BALAGANESH,RADHA,Male,25,North Carolina,Master's,Political Science,Murray-Dennis University,2021,F-1,Seeking Employment
+72,73,SHAIKH MANTASHA  FAZAL HAQUE,SAFIYA,Male,23,Ohio,Master's,Mechanical Engineering,Montoya-Brewer University,2021,F-1,Employed
+73,74,CHOUGULE FARDEEN FIRDAUS,MUBINA,Female,26,Florida,Master's,Information Technology,"Spence, Owens and Diaz University",2021,F-1,Seeking Employment
+74,75,DATTA ARNAB MIDUL,RITA,Male,23,Colorado,PhD,Hospitality Management,"Nguyen, Smith and Mullins University",2025,F-1,Employed
+75,76,GUPTA OMKAR VIMLESH,SANGITA,Female,21,Oklahoma,Bachelor's,Information Technology,"Andrews, Beasley and Guzman University",2025,F-1,Internship
+76,77,IRLE AJAY GAUTAM,SARIKA,Female,24,Colorado,Bachelor's,Accounting,Stuart LLC University,2022,F-1,Internship
+77,78,SINGH SUMIT RAMESH ,PREETI,Female,21,Utah,Bachelor's,Psychology,Travis and Sons University,2022,F-1,Seeking Employment
+78,79,BABAR SHREYA TULSHIRAM ,RANJANA,Male,23,California,Bachelor's,Software Engineering,"Harmon, Fowler and Roberts University",2022,F-1,Internship
+79,80,DATTA ARNAB MIDUL,RITA,Female,26,Florida,PhD,Accounting,"Ewing, Ware and Jones University",2025,F-1,Employed
+80,81,RAWAL PALLAVI BHARAT ,PINKY,Male,23,New Jersey,Master's,Media Studies,Hernandez Inc University,2022,F-1,Seeking Employment
+81,82,JANAKISHREE BHASKAR,CHELLAMMAL,Male,24,New Mexico,Master's,Civil Engineering,Neal Ltd University,2023,F-1,Internship
+82,83,KADGE TANVI ASHOK,NANDINI,Female,24,Maine,Bachelor's,Philosophy,Le-Hanson University,2023,F-1,Internship
+83,84,VASAMSETTI YUVRAJ SURYANARAYANA,BHAVANIKANAKADURGA,Male,25,North Dakota,Master's,International Relations,"Hamilton, Neal and Davis University",2025,F-1,Seeking Employment
+84,85,POOJARY POORNA RAMESH ,SHANTHA,Male,21,Ohio,PhD,Chemical Engineering,"Hicks, Ellis and West University",2022,F-1,Internship
+85,86,SIRRA VARUN ANANDAM,BABITA,Female,21,Washington,Bachelor's,Chemical Engineering,Gonzalez PLC University,2021,F-1,Employed
+86,87,MISHRA MUDIT DILEEPKUMAR,MAYA,Female,24,Michigan,Master's,Mathematics,Cantu Ltd University,2025,F-1,Seeking Employment
+87,88,KOTA REGINALD MADHUBABU RINA,PRISCILLA,Male,27,Florida,Master's,Nursing,Nash LLC University,2023,F-1,Internship
+88,89,SHENOY VINDHYA SHYAM,SHUBHANGI,Male,23,Pennsylvania,Master's,Marketing,Mcdaniel and Sons University,2024,F-1,Internship
+89,90,KOTA REGINALD MADHUBABU RINA,PRISCILLA,Male,25,Montana,Bachelor's,Pharmacy,Mccarthy-Owens University,2023,F-1,Employed
+90,91,KAMAL KARTHICK BALAGANESH,RADHA,Female,21,South Carolina,PhD,Chemistry,"Kelley, Jones and Terrell University",2024,F-1,Seeking Employment
+91,92,GOLE YASH ASHOK,SUNANDA,Male,27,Wyoming,Bachelor's,Education,Jackson-Miller University,2023,F-1,Seeking Employment
+92,93,DARSH MANOHAR SHETTY,VARSHA,Female,27,Wyoming,PhD,Philosophy,"Coleman, Farrell and Choi University",2025,F-1,Internship
+93,94,CHOUGULE FARDEEN FIRDAUS,MUBINA,Female,25,Tennessee,PhD,Architecture,"Anderson, Hall and Brown University",2022,F-1,Employed
+94,95,MAHI RAJESH KOCHHAR,POONAM,Male,22,Alaska,Bachelor's,Hospitality Management,Spencer and Sons University,2025,F-1,Employed
+95,96,SHARMA SONAM SHIVCHAND,SUNITA,Male,27,Oregon,Master's,Electrical Engineering,Lyons Group University,2023,F-1,Employed
+96,97,PANDEY VIVEK HARISH MEERA,DEVI,Male,22,Texas,Master's,Software Engineering,Callahan Group University,2023,F-1,Seeking Employment
+97,98,NAIK SWAYAM SANTOSH,SMITA,Male,22,Missouri,Bachelor's,Statistics,Graves Inc University,2025,F-1,Seeking Employment
+98,99,RAWAL PALLAVI BHARAT ,PINKY,Female,25,Oklahoma,PhD,Mathematics,Cruz-Morgan University,2024,F-1,Seeking Employment
+99,100,GUPTA SAKSHI JANAK ,SUNITA,Male,23,Maryland,Master's,Information Technology,Walker LLC University,2024,F-1,Internship
