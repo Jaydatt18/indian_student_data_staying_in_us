@@ -1,6 +1,6 @@
 import streamlit as st
 import  pandas as pd
-st.header(" RECENTLY INDIAN PASSED OUT Students in UNITED STATES")
+st.header(" RECENTLY INDIAN PASSED OUT Students IN UNITED STATES")
 
 st.set_page_config(layout="wide")
 df = pd.read_csv('us_student.csv')
